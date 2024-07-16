@@ -5,6 +5,7 @@
         "inputnumber",
         "inputswitch",
         "inputtext",
-        "inputtextarea"
+        "inputtextarea",
+        "maximizable"
     ]
 }
